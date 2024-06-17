@@ -1,0 +1,6 @@
+path: /Users/dheeraj/Desktop/NVIDIA_GENAI_CONTEST/data
+train: train/images
+val: valid/images
+
+nc: 3
+names: ['rust', 'healthy', 'powdery']
