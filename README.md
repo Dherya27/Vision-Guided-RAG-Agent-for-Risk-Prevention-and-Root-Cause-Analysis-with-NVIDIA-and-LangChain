@@ -11,7 +11,7 @@
 
 
 
-# AI-Driven Agent for Risk Prevention and Root Cause Analysis using NVIDIA NIM
+# Vision-Guided RAG Agent for Risk Prevention and Root Cause Analysis with NVIDIA and LangChain
 
 ## Table of Contents
 1. [Introduction](#introduction)
